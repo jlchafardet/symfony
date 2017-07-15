@@ -4,7 +4,7 @@ summary: |
     We already learned *all* the [form basics](http://knpuniversity.com/screencast/symfony-forms).
     But, controlling how you *render* your forms? That's a *huge* and
     super-fun topic all on its own. So let's go!
-    
+
     * Creating your own form theme
     * Controller form variables
     * Using form variables in your theme
@@ -20,8 +20,36 @@ summary: |
 illustration: symfony-extra-form-theming.png
 
 tuts_hero:
-# todo - fill in the steps properly
-#    start_step: start
-    finish_step: start
+    start_step: 'Registration: Auto-login'
+    finish_step: 'Remove: Execute removal'
 
-chapters: []
+chapters:
+    render-functions-reference:
+        video_key: 186309990
+        is_free: true
+    form-rendering-functions:
+        video_key: 186311658
+        is_free: true
+    i-heart-form-variables:
+        video_key: 186312597
+        is_free: true
+    pro-form-theming:
+        video_key: 187066610
+    form-theme-validation-icon:
+        video_key: 187066631
+    complex-blocks-parent-function:
+        video_key: 187263323
+    form-help-feature:
+        video_key: 187262930
+    vars-merge-form-functions:
+        video_key: 187370175
+    form-options-variables:
+        video_key: 187369306
+    controlling-vars-with-finish-view:
+        video_key: 187368669
+    form-type-extension-magic:
+        video_key: 187371076
+    compound-embedded-forms:
+        video_key: 187725894
+    rendering-fields-manually:
+        video_key: 187729694
